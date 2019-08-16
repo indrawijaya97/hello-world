@@ -1,2 +1,5 @@
 # hello-world
-my first github
+
+Hello Hoomans !
+
+Nice to meet you :)
